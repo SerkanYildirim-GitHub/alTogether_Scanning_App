@@ -14,11 +14,11 @@
 ### All together means “everyone together” or “everything together.”
 ### `alTogether means` “completely,” “all things considered,” or “on the whole.”   
 ### Variety of PenTest Scannings with user input IP address.! 
-- run the code $python3 alTogether.py <Ip Address>
-  or only $python3 alTogether.py and type the IP address when prompted
-  and Relax... All Scans will done automatically and the scan results saved in to Case_[IP_address] Folder
+- run the code `$python3 alTogether.py <Ip Address>`
+  or only `$python3 alTogether.py` and type the IP address when prompted
+  and Relax... All Scans will done automatically and the scan results saved in to `Case_[IP_address]` Folder
   
-[./Capture.jpg)](https://github.com/SerkanYildirim-GitHub/alTogether_Scanning_App/blob/main/Capture.JPG)
+![Capture.jpg)](./Capture.JPG)
 
   
  
