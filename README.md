@@ -17,7 +17,9 @@
 - run the code $python3 alTogether.py <Ip Address>
   or only $python3 alTogether.py and type the IP address when prompted
   and Relax... All Scans will done automatically and the scan results saved in to Case_[IP_address] Folder
-![alTogetherApp](./Capture.jpg)
+  
+[./Capture.jpg)](https://github.com/SerkanYildirim-GitHub/alTogether_Scanning_App/blob/main/Capture.JPG)
+
   
  
 
