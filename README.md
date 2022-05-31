@@ -30,7 +30,9 @@ or only:
 ~~~ bash 
 python3 alTogether.py 
 ~~~ 
-and type the IP address when prompted and Relax... All Scans will done automatically and the scan results saved in to `Case_[IP_address]` Folder
+Type the IP address when prompted and Relax... 
+
+All the Scans will done automatically. The scan results are saved in to `Case_[IP_address]` Folder.
   
 ![Capture.jpg)](./Capture.JPG)
 
