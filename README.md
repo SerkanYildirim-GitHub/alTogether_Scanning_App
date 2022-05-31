@@ -35,7 +35,7 @@ Type the IP address when prompted and Relax...
 All the Scans will done automatically. The scan results are saved in to `Case_[IP_address]` Folder.
   
 ![Capture.jpg)](./Capture.JPG)
-
+![Capture.jpg)](./Capture2.JPG)
   
  
 
