@@ -8,20 +8,18 @@ import sys
 # Prints Welcome Screen
 
 print("*"*50 + "\n" + "\n\talTogether PenTest Case Builder App v1.0" + "\n\n" + "*"*50)
-
-ip_address = ""
+ip_address = ''
 
 # Validate the IP addresses  
 
-def validate_ip(s):
-    ip_address = s.split('.')
+def validate_ip(IP):
+    ip_address = IP.split('.')
     if len(ip_address) != 4:
         return False
-    for x in ip_address:
-        if not x.isdigit():
+    for num in ip_address:
+        if not num.isdigit():
             return False
-        i = int(x)
-        if i < 0 or i > 255:
+        if (int(num) < 0) or (int(num) > 255):
             return False
     return True
 try:
@@ -40,8 +38,6 @@ def case():
     check_dir = os.path.isdir(case_dir) 
     if not check_dir:
         os.mkdir(f"Case_{ip_address}")
-    else:
-        pass
 
 # This function does nmap-nikto-sslscan-whois-nmapVuln scans && saves the outputs with respected file name within the case folder:
 
@@ -75,4 +71,3 @@ def main():
 if __name__ == "__main__":
     case()
     main()
-
