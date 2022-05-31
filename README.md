@@ -8,7 +8,7 @@
 - alTogether app v1.0 by `S3rk4n`  https://github.com/SerkanYildirim-GitHub/alTogether_Scanning_App
 
 <br>
-<br>
+
 
 ## `All together` vs `alTogether`
 
@@ -33,8 +33,16 @@ python3 alTogether.py
 Type the IP address when prompted and Relax... 
 
 All the Scans will done automatically. The scan results are saved in to `Case_[IP_address]` Folder.
-  
+
+<br>
+
+Screenshot: Scanning with `alTogether`.
+
 ![Capture.jpg)](./Capture.JPG)
+
+
+Screenshot: `Case_[IP_address]` Folder.
+
 ![Capture.jpg)](./Capture2.JPG)
   
  
