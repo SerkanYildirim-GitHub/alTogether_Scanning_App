@@ -1,14 +1,14 @@
 
-#*********************************************************************#
+# #***********************************************#
 
-<h2 style="color:Tomato;">alTogether PenTest Case Builder App v1.0</h2>
+##  alTogether PenTest Case Builder App v1.0
 
-#*********************************************************************#
+# #***********************************************#
 
+- alTogether app v1.0 by `S3rk4n`  https://github.com/SerkanYildirim-GitHub/alTogether_Scanning_App
 
-### alTogether_Scanning_App 
-
-### alTogether app v1.0 by S3rk4n  https://github.com/SerkanYildirim-GitHub
+<br>
+<br>
 
 ## `All together` vs `alTogether`
 
@@ -16,7 +16,7 @@
 
 ### `alTogether means` “completely,” “all things considered,” or “on the whole.”   
 
-### Variety of PenTest Scannings with user input IP address.! 
+### `alTogether` app makes Variety of PenTest Scannings with a user input IP address.! 
 
 <br>
 
